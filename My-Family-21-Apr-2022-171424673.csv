@@ -30,7 +30,7 @@ JM7OU,Fernanda Ash,Fernanda,,,,Ash,Perna Pereira (de Costa),Female,,,,,,,,,,,,,,
 SSZ28,Jeremy Alastair Ash,Jeremy Alastair,,,,Ash,Ash,Male,,WT4SA,Petrena Margaret Ash,O4K3W,Jonathan Richard Ash,,,,,,,Known,1978,,,,,,,,,JM7OU,Fernanda Ash,Wife,Known,2009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 O4K3W,Jonathan Richard Ash,Jonathan Richard,,,,Ash,,Male,,,,,,,,,,,,,,,,,,,,,,WT4SA,Petrena Margaret Ash,Wife,Known,1975,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 WT4SA,Petrena Margaret Ash,Petrena Margaret,,,,Ash,Soul,Female,,R3W4W,Ivy May Soul,E0LON,Geoffrey Bruce Soul,,,,,,,Known,1946,,,,,,,,,O4K3W,Jonathan Richard Ash,Husband,Known,1975,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-B9FVI,Jagtar Singh Behal,Jagtar Singh,,,,Behal,Behal,Male,,,,,,,,,,,,Known,1981,6,12,,,,,,,START,Victoria Catherine Soul,Wife,Known,2013,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+B9FVI,,,,,,Behal,Behal,Male,,,,,,,,,,,,Known,1981,6,12,,,,,,,START,Victoria Catherine Soul,,Known,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ZVYCN,Adrian Peter Blair,Adrian Peter,,,,Blair,Blair,Male,,ILMPD,Joan Valerie Blair,GI4WZ,Arthur Blair,,,,,,,Known,1975,,,,,,,,,NXYVI,Aurore Suzette Blair,Wife,Known,2006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 KFH0H,Amelie Janine Mary Blair,Amelie Janine Mary,,,,Blair,Blair,Female,,NXYVI,Aurore Suzette Blair,ZVYCN,Adrian Peter Blair,,,,,,,Known,2010,,,,,,,,,,,,,,,,,,,,,,,,,,,,,London,,,,,,,,,,,,,,
 GI4WZ,Arthur Blair,Arthur,,,,Blair,Blair,Male,,,,,,,,,,,,,,,,,,,,,,ILMPD,Joan Valerie Blair,Wife,Known,1970,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -49,7 +49,10 @@ EI318,Florence Elizabeth Booty,Florence Elizabeth,,,,Booty,Booty,Female,Y,HNFMB,
 WAHJ5,George Frederick Booty,George Frederick,,,,Booty,Booty,Male,Y,HNFMB,Mary Ann Booty,RB1FF,Williiam Samuel Booty,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Commercial clerk,,,,,
 QRDFX,Herbert Henry Booty,Herbert Henry,,,,Booty,Booty,Male,Y,HNFMB,Mary Ann Booty,RB1FF,Williiam Samuel Booty,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ANSBS,Laura Booty,Laura,,,,Booty,Booty,Female,Y,HNFMB,Mary Ann Booty,RB1FF,Williiam Samuel Booty,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-HNFMB,Mary Ann Booty,Mary Ann,,,,Booty,Soul,Female,Y,LH3IK,Lydia Jane Soul,I3OGX,Thomas Daniel Soul,,,,,,,Known,1849,3,12,,Known,1852,1,,,RB1FF,Williiam Samuel Booty,Husband,Known,1876,12,25,,,,,,,,,,,,,,2 George Gdns,,,,,,,,,,,,,"- 1861 census: 1 Green St.- 1871 census: 279 Green St, 22, boarder.- 1881 census: 36 Colgrove Rd, West Ham, 31.- 1901 census: 17 Lorne Rd, 52.",
+HNFMB,Mary Ann Booty,Mary Ann,,,,Booty,Soul,Female,Y,LH3IK,Lydia Jane Soul,I3OGX,Thomas Daniel Soul,,,,,,,Known,1849,3,12,,Known,1852,1,,,RB1FF,Williiam Samuel Booty,Husband,Known,1876,12,25,,,,,,,,,,,,,,2 George Gdns,,,,,,,,,,,,,"- 1861 census: 1 Green St.
+- 1871 census: 279 Green St, 22, boarder.
+- 1881 census: 36 Colgrove Rd, West Ham, 31.
+- 1901 census: 17 Lorne Rd, 52.",
 FERPZ,Maud Mary Booty,Maud Mary,,,,Booty,Booty,Female,Y,HNFMB,Mary Ann Booty,RB1FF,Williiam Samuel Booty,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 QTLB8,William Edwards Booty,William Edwards,,,,Booty,Booty,Male,Y,HNFMB,Mary Ann Booty,RB1FF,Williiam Samuel Booty,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fish buyer,,,,,
 RB1FF,Williiam Samuel Booty,Williiam Samuel,,,,Booty,Booty,Male,Y,,,,,,,,,,,,,,,,,,,,,HNFMB,Mary Ann Booty,Wife,Known,1876,12,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -185,7 +188,9 @@ O11NL,Arthur Bruce Soul,Arthur Bruce,,,,Soul,Soul,Male,Y,M1MSS,Naomi Bruce Soul,
 ZB0H4,Audrey Tamar Soul,Audrey Tamar,,,,Soul,Johnson,Female,,,,,,,,,,,,Known,1926,,,,,,,,,M2WBE,Harold Vernon Soul,Late husband,Known,1967,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 DNV6N,Beatrice Soul,Beatrice,,,,Soul,Newcombe,Female,Y,,,,,,,,,,,Known,1833,,,,Known,1909,1,,,D7R8F,Eli Joseph Soul,Husband,Known,1876,,,,,,,,,,,,,,,,"St David's, Exeter, Devon","Rochford, Essex",,,,,,,,,,,,,
 D0U3C,Betty J Soul,Betty J,,,,Soul,Dellow,Female,Y,,,,,,,,,,,,,,,,,,,,,RA69N,Charles James Soul,Husband,Known,1941,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ZBLEN,Caleb Soul,Caleb,,,,Soul,Soul,Male,Y,H59BV,Elizabeth Soul,Z0KK7,Eli Soul,,,,,,,Known,1817,1,13,,Known,1894,8,31,,T2MOI,Mary Ann Soul,Wife,Known,1844,8,13,,L0KVY,,,,,,,,,,,,Shoreditch,,,"South Head cem, Sydney",,,,,,Grocer & cheersemonger; fancy soap maker; perfumer,,,,"- Bankrupted twice.- emigrated to Australia 1863.- died the senior partner of firm Washington H Soul & Co.",
+ZBLEN,Caleb Soul,Caleb,,,,Soul,Soul,Male,Y,H59BV,Elizabeth Soul,Z0KK7,Eli Soul,,,,,,,Known,1817,1,13,,Known,1894,8,31,,T2MOI,Mary Ann Soul,Wife,Known,1844,8,13,,L0KVY,,,,,,,,,,,,Shoreditch,,,"South Head cem, Sydney",,,,,,Grocer & cheersemonger; fancy soap maker; perfumer,,,,"- Bankrupted twice.
+- emigrated to Australia 1863.
+- died the senior partner of firm Washington H Soul & Co.",
 JQKTA,Catherine McNab Soul,Catherine McNab,,,,Soul,Soul,Female,Y,GWKL1,Rebecca Mary Soul,IXMWM,Eli Soul,,,,,,,Known,1839,4,24,,Known,1911,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Book folder; bookbinder forewoman; asst milliner & draper,,,,,
 RIDPF,Cecil Alpheus Sydney McNab Soul,Cecil Alpheus Sydney McNab,,,,Soul,Soul,Male,Y,CJU63,Alice Soul,P04CD,Sydney Caleb Soul,,,,,,,Known,1909,,,,Known,1949,7,23,,REUD3,Ethel Mary Soul,Wife,Known,1939,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 AQVBP,Cecil Bruce Soul,Cecil Bruce,,,,Soul,Soul,Male,Y,OQVRS,Florence Emily Soul,X76O7,George Herbert Soul,,,,,,,Known,1911,12,29,,Known,1991,4,15,,F7FU2,Gwendoline Iris Soul,Wife,Known,1948,12,19,,,,,,,,,,,,,,,"Malaga, Spain",,,,,,,,,,,,,
@@ -196,7 +201,8 @@ YPSYM,Charles Frederick Soul,Charles Frederick,,,,Soul,Soul,Male,Y,TM1TL,Juliana
 RA69N,Charles James Soul,Charles James,,,,Soul,Soul,Male,Y,FH98V,Annie Soul,MFR90,Oliver Charles Soul,,,,,,,Known,1918,1,8,,Known,1984,,,,D0U3C,Betty J Soul,Wife,Known,1941,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 HTB9S,Charlotte Louisa Soul,Charlotte Louisa,,,,Soul,Bird,Female,Y,,,,,,,,,,,Known,1849,10,10,,Known,1923,12,10,,U2X51,Washington Handley Soul,Husband,Known,1874,12,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 V4793,Constance Mary Soul,Constance Mary,,,,Soul,Dilloway,Female,Y,,,,,,,,,,,Known,1910,10,16,,Known,1986,8,22,,VRIOT,Denis Robert J Soul,Husband,Known,1930,6,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-L05LG,Daniel Soul,Daniel,,,,Soul,Soul,Male,Y,HTQAY,Kezia Soul,ZTDVW,John Soul,,,,,,,Known,1740,,,,,,,,,XCEUL,Elizabeth Soul,Wife,Known,1766,10,4,,,,,,,,,,,,,,,,,,,,,,,,,,,"- Born about 1740.- Baptised 19 Nov 1740.",
+L05LG,Daniel Soul,Daniel,,,,Soul,Soul,Male,Y,HTQAY,Kezia Soul,ZTDVW,John Soul,,,,,,,Known,1740,,,,,,,,,XCEUL,Elizabeth Soul,Wife,Known,1766,10,4,,,,,,,,,,,,,,,,,,,,,,,,,,,"- Born about 1740.
+- Baptised 19 Nov 1740.",
 PAISY,Daniel Soul,Daniel,,,,Soul,Soul,Male,Y,Z7R92,Mary Soul,N87RK,John Soul,,,,,,,Known,1764,5,27,,,,,,,P0JVO,Mary Soul,Wife,Known,1787,1,1,,,,,,,,,,,,,,,,,,,,,,,Weaver,,,,"Baptised 25 May 1764, Stonehouse, Glos.",
 FT79B,Daniel Soul,Daniel,,,,Soul,Soul,Male,Y,HTQAY,Kezia Soul,ZTDVW,John Soul,,,,,,,Known,1749,9,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 MPKJA,Daniel John Soul,Daniel John,,,,Soul,Soul,Male,Y,JW55B,Elizabeth Mary Soul,P72ZI,Daniel Thomas Soul,,,,,,,Known,1849,,,,Known,1922,,,,IXBI0,Ellen Soul,Wife,Known,1873,8,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -223,7 +229,8 @@ XO7W6,Eli Joseph Soul,Eli Joseph,,,,Soul,Soul,Male,Y,WZYWI,Matilda Soul,D7R8F,El
 D7R8F,Eli Joseph Soul,Eli Joseph,,,,Soul,Soul,Male,Y,GWKL1,Rebecca Mary Soul,IXMWM,Eli Soul,,,,,,,Known,1824,2,5,,Known,1896,7,,,DNV6N,Beatrice Soul,Wife,Known,1876,,,,SHYH1 WZYWI,,,,,,,,,,,,Shoreditch,Bromley,,,,,,,,Bookbinder,,,,,
 DJ1LG,Eliza Jane Soul,Eliza Jane,,,,Soul,Soul,Female,Y,JW55B,Elizabeth Mary Soul,P72ZI,Daniel Thomas Soul,,,,,,,Known,1862,,,,Known,1864,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 H59BV,Elizabeth Soul,Elizabeth,,,,Soul,Hodges,Female,Y,,,,,,,,,,,Known,1773,9,10,,Known,1857,10,2,,Z0KK7,Eli Soul,Husband,Known,1793,10,12,,,,,,,,,,,,,,,"Hoxton, Middx",,"Abney park, grave 19146 sq 27",,,,,,,,,,,
-XCEUL,Elizabeth Soul,Elizabeth,,,,Soul,Chester,Female,Y,,,,,,,,,,,Known,1740,,,,,,,,,L05LG,Daniel Soul,Husband,Known,1766,10,4,,,,,,,,,,,,,,,,,,Known,1797,11,19,,,,,,"- Born about 1740.- Buried 19 Nov 1797?",
+XCEUL,Elizabeth Soul,Elizabeth,,,,Soul,Chester,Female,Y,,,,,,,,,,,Known,1740,,,,,,,,,L05LG,Daniel Soul,Husband,Known,1766,10,4,,,,,,,,,,,,,,,,,,Known,1797,11,19,,,,,,"- Born about 1740.
+- Buried 19 Nov 1797?",
 OGWQY,Elizabeth Soul,Elizabeth,,,,Soul,Soul,Female,Y,H59BV,Elizabeth Soul,Z0KK7,Eli Soul,,,,,,,Known,1795,4,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,- Not known when she died.  Mentioned in letter 11 Feb 1798 from Emma Soul to Eli and Elizabeth,
 XHYLA,Elizabeth Florinda Soul,Elizabeth Florinda,,,,Soul,Soul,Female,Y,GWKL1,Rebecca Mary Soul,IXMWM,Eli Soul,,,,,,,Known,1830,6,22,,Known,1832,10,17,,,,,,,,,,,,,,,,,,,,,,,,,Bunhill Fields,,,,,,,,,,,
 XN4TQ,Elizabeth Jessie Soul,Elizabeth Jessie,,,,Soul,Soul,Female,Y,JW55B,Elizabeth Mary Soul,P72ZI,Daniel Thomas Soul,,,,,,,Known,1860,,,,Known,1947,2,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -256,7 +263,15 @@ NVH5A,Frank C Soul,Frank C,,,,Soul,Soul,Male,Y,PTAUC,Mary Anne Soul,GIVZG,Frank 
 GIVZG,Frank Edward Meriton Soul,Frank Edward Meriton,,,,Soul,Soul,Male,Y,TF384,Ellen Soul,CUT0X,Matthew Augustus Soul,,,,,,,Known,1873,3,22,,Known,1951,4,,,PTAUC,Mary Anne Soul,Wife,Known,1903,4,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 DGNID,Frank Edwin Soul,Frank Edwin,,,,Soul,Soul,Male,Y,YJR88,Rosa Soul,XUMQI,Henry Thomas Soul,,,,,,,Known,,,,,Known,1945,,,,,,,,,,,,,,,,,,,,,,,,,"Victoria, Australia",,,,,,,,,,,,,
 E0LON,Geoffrey Bruce Soul,Geoffrey Bruce,,,,Soul,Soul,Male,Y,OQVRS,Florence Emily Soul,X76O7,George Herbert Soul,,,,,,,Known,1910,7,29,,Known,2002,12,4,,R3W4W,Ivy May Soul,Wife,Known,1937,5,29,,,,,,,,,,,,,,"Tufnell Park, London",Worthing hospital,,,,,,,,"Bank Manager, Int'l banking division",English Scottish & Australian Bank Ltd,,,"Baptised 21 Aug 1910, St George's Tufnell Park, lived 82 Carleton Rd.  1918-28 Wellingborough School, Northants.  Retired to 27 Ancton Drive, Middleton-on-sea.",
-X76O7,George Herbert Soul,George Herbert,,,,Soul,Soul,Male,Y,PI7SD,Ann Bruce Soul,GO8FB,George Simmonds Soul,,,,,,,Known,1867,12,12,,Known,1944,7,13,,OQVRS,Florence Emily Soul,Wife,Known,1902,6,5,,,,,,,,,,,,,,Dublin,Royal Northern hospital,,"Highgate cemetary, grave 42078 sq 117",Known,1944,7,18,,Bank Manager,Anglo-Egyptian Bank,,,"- Times article on 17 Dec 1867 re birth: ""at 3 Belgrave Sq e, Rathmines, Dublin, the wife of Mr George Simmonds Soul, of a son"".- 1891 census: 6 Ellington St, Islington, 23, commercial clerk, B Ireland, Dublin.- 1901 census: 19 Drayton Park, banker's accountant.- 1911 census: Rosedene, 82 Carleton Road, Tufnell Park, bank secretary.- 1916-1927 churchwarden, St George's Tufnell Park.- Dec 1927 retired from Anglo-Egyptian Bank as London manager.- 12 July 1944 injured at Rosedene by a flying bomb.- died 13 July 1944 at Royal Northern Hospital.- buried 18 July Highgate cemetary, grave 42078 sq 117.",
+X76O7,George Herbert Soul,George Herbert,,,,Soul,Soul,Male,Y,PI7SD,Ann Bruce Soul,GO8FB,George Simmonds Soul,,,,,,,Known,1867,12,12,,Known,1944,7,13,,OQVRS,Florence Emily Soul,Wife,Known,1902,6,5,,,,,,,,,,,,,,Dublin,Royal Northern hospital,,"Highgate cemetary, grave 42078 sq 117",Known,1944,7,18,,Bank Manager,Anglo-Egyptian Bank,,,"- Times article on 17 Dec 1867 re birth: ""at 3 Belgrave Sq e, Rathmines, Dublin, the wife of Mr George Simmonds Soul, of a son"".
+- 1891 census: 6 Ellington St, Islington, 23, commercial clerk, B Ireland, Dublin.
+- 1901 census: 19 Drayton Park, banker's accountant.
+- 1911 census: Rosedene, 82 Carleton Road, Tufnell Park, bank secretary.
+- 1916-1927 churchwarden, St George's Tufnell Park.
+- Dec 1927 retired from Anglo-Egyptian Bank as London manager.
+- 12 July 1944 injured at Rosedene by a flying bomb.
+- died 13 July 1944 at Royal Northern Hospital.
+- buried 18 July Highgate cemetary, grave 42078 sq 117.",
 GO8FB,George Simmonds Soul,George Simmonds,,,,Soul,Soul,Male,Y,XKDTG,Ann Soul,ONXKN,Joseph Soul,,,,,,,Known,1836,1,25,,Known,1921,3,8,,PI7SD,Ann Bruce Soul,Wife,Known,1865,11,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 MQ7JH,Gerald Bruce Soul,Gerald Bruce,,,,Soul,Soul,Male,Y,OQVRS,Florence Emily Soul,X76O7,George Herbert Soul,,,,,,,Known,1904,2,7,,Known,1904,3,12,,,,,,,,,,,,,,,,,,,,,,,,,"Highgate cem, grave 33590",,,,,,,,,,,
 J377K,Gerald Bruce Soul,Gerald Bruce,,,,Soul,Soul,Male,Y,R3W4W,Ivy May Soul,E0LON,Geoffrey Bruce Soul,,,,,,,Known,1942,6,22,,Known,1942,6,24,,,,,,,,,,,,,,,,,,,,,,,,,"Highgate cemetery, 42078 sq 117",,,,,,,,,,,
@@ -280,13 +295,16 @@ JLKVI,Janet McNab Soul,Janet McNab,,,,Soul,Soul,Female,Y,GWKL1,Rebecca Mary Soul
 ER1KQ,Jessie Emma Soul,Jessie Emma,,,,Soul,Soul,Female,Y,HTB9S,Charlotte Louisa Soul,U2X51,Washington Handley Soul,,,,,,,Known,1882,3,12,,Known,1944,3,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 NNK75,John Soul,John,,,,Soul,Soul,Male,Y,H59BV,Elizabeth Soul,Z0KK7,Eli Soul,,,,,,,Known,1812,3,7,,Known,1843,2,5,,,,,,,,,,,,,,,,,,,,,,Shoreditch,"Spanish Town, Jamaica",,,,,,,,,,,,,
 ZTDVW,John Soul,John,,,,Soul,Soul,Male,Y,,,,,,,,,,,Known,1712,,,,,,,,,HTQAY,Kezia Soul,Wife,Known,1737,7,4,,,,,,,,,,,,,,,,,,,,,,,,,- Marriage register: “John Soul of the parish of Cowley”,,,
-N87RK,John Soul,John,,,,Soul,Soul,Male,Y,HTQAY,Kezia Soul,ZTDVW,John Soul,,,,,,,Known,1738,,,,,,,,,Z7R92,Mary Soul,Wife,Known,1762,7,8,,,,,,,,,,,,,,,,,,,,,,,,,,,"- Baptised 28 April 1738, Eastington, Glos. - W.P.W. Phillimore's Gloucestershire Parish Registers, vol XIII, Eastington Marriages, records the marriage of John Soul & Mary Palmer, 8 July 1762",
-YBYVO,John Soul,John,,,,Soul,Soul,Male,Y,P0JVO,Mary Soul,PAISY,Daniel Soul,,,,,,,Known,1791,10,21,,Known,1793,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"- baptised 6 Nov 1791.- Death reported in letter of 20 Feb 1793 from Daniel Soul to his brother Eli.",
+N87RK,John Soul,John,,,,Soul,Soul,Male,Y,HTQAY,Kezia Soul,ZTDVW,John Soul,,,,,,,Known,1738,,,,,,,,,Z7R92,Mary Soul,Wife,Known,1762,7,8,,,,,,,,,,,,,,,,,,,,,,,,,,,"- Baptised 28 April 1738, Eastington, Glos. 
+- W.P.W. Phillimore's Gloucestershire Parish Registers, vol XIII, Eastington Marriages, records the marriage of John Soul & Mary Palmer, 8 July 1762",
+YBYVO,John Soul,John,,,,Soul,Soul,Male,Y,P0JVO,Mary Soul,PAISY,Daniel Soul,,,,,,,Known,1791,10,21,,Known,1793,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"- baptised 6 Nov 1791.
+- Death reported in letter of 20 Feb 1793 from Daniel Soul to his brother Eli.",
 K8TO8,John Soul,John,,,,Soul,Soul,Male,Y,P0JVO,Mary Soul,PAISY,Daniel Soul,,,,,,,Known,1787,12,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Died in infancy.,
 V5R72,John Brendan Soul,John Brendan,,,,Soul,Soul,Male,,T4867,Dorothea Florence Taylor Soul,WUIFR,Denis Bruce Soul,,,,,,,Known,1939,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 TA22F,John Edwin F Soul,John Edwin F,,,,Soul,Soul,Male,Y,IXBI0,Ellen Soul,MPKJA,Daniel John Soul,,,,,,,Known,1877,,,,Known,1952,,,,M9WDQ,Esther Soul,Wife,Known,1899,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 TMDNT,John Simmonds Soul,John Simmonds,,,,Soul,Soul,Male,Y,XKDTG,Ann Soul,ONXKN,Joseph Soul,,,,,,,Known,1843,8,12,,Known,1843,8,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ONXKN,Joseph Soul,Joseph,,,,Soul,,Male,Y,H59BV,Elizabeth Soul,Z0KK7,Eli Soul,,,,,,,Known,1805,11,14,,Known,1881,12,25,,XKDTG,Ann Soul,Wife,Known,1830,5,6,,,,,,,,,,,,,,Shoreditch,11 Boxworth Grove,,"Abney Park, grave 70572 sq 49",,,,,,,,,,"- In the British and Foreign Anti-Slavery Society Convention of 1840 group portrait in National Portrait Gallery, by Benjamin Robert Haydon.- Secretary to Orphan Working School for 36 years.",
+ONXKN,Joseph Soul,Joseph,,,,Soul,,Male,Y,H59BV,Elizabeth Soul,Z0KK7,Eli Soul,,,,,,,Known,1805,11,14,,Known,1881,12,25,,XKDTG,Ann Soul,Wife,Known,1830,5,6,,,,,,,,,,,,,,Shoreditch,11 Boxworth Grove,,"Abney Park, grave 70572 sq 49",,,,,,,,,,"- In the British and Foreign Anti-Slavery Society Convention of 1840 group portrait in National Portrait Gallery, by Benjamin Robert Haydon.
+- Secretary to Orphan Working School for 36 years.",
 ONQCT,Joseph Cornelius Soul,Joseph Cornelius,,,,Soul,Soul,Male,Y,GWKL1,Rebecca Mary Soul,IXMWM,Eli Soul,,,,,,,Known,1843,4,16,,Known,1834,11,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OI3RY,Joseph Harold Soul,Joseph Harold,,,,Soul,Soul,Male,Y,PI7SD,Ann Bruce Soul,GO8FB,George Simmonds Soul,,,,,,,Known,1876,4,5,,Known,1945,1,30,,V705H,Frances Kate Soul,Wife,Known,1918,4,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 NIFNV,Joseph Simmonds Soul,Joseph Simmonds,,,,Soul,Soul,Male,Y,XKDTG,Ann Soul,ONXKN,Joseph Soul,,,,,,,Known,1833,8,26,,Known,1913,3,31,,UZ34L,Ellen Soul,Wife,Known,1855,1,23,,,,,,,,,,,,,,Clerkeenwell,,,"Abney Park, grave 70572 sq 49",,,,,,,,,,,
@@ -297,13 +315,20 @@ CXOKO,Kathleen K Soul,Kathleen K,,,,Soul,Prue,Female,Y,,,,,,,,,,,,,,,,Known,1964
 ZWJ8M,Kenneth M Soul,Kenneth M,,,,Soul,Soul,Male,,REUD3,Ethel Mary Soul,RIDPF,Cecil Alpheus Sydney McNab Soul,,,,,,,Known,1941,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 RJS85,Kenneth McNab Soul,Kenneth McNab,,,,Soul,Soul,Male,Y,HOJTC,Margaret Sarah Soul,KC0L9,Thomas McNab Soul,,,,,,,Known,1887,,,,Known,1941,2,25,,MTL4L,Emma (Emmie) Soul,Wife,Known,1908,7,8,,,,,,,,,,,,,,Hackney,,,,,,,,,,,,,,
 WCDGL,Kenneth Oliver Soul,Kenneth Oliver,,,,Soul,Soul,Male,Y,FH98V,Annie Soul,MFR90,Oliver Charles Soul,,,,,,,Known,1913,8,5,,Known,1984,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-HTQAY,Kezia Soul,Kezia,,,,Soul,Clarke,Female,Y,NTJFI,Clarke,FMFFE,Daniel Clarke,,,,,,,Known,1715,,,,Known,1750,,,,ZTDVW,John Soul,Husband,Known,1737,7,4,,,,,,,,,,,,,,,"Eastington, Glos",,,,,,,,,,,,"- Baptised 19 April 1715, Eastington, Glos.- Died about 1750.",
+HTQAY,Kezia Soul,Kezia,,,,Soul,Clarke,Female,Y,NTJFI,Clarke,FMFFE,Daniel Clarke,,,,,,,Known,1715,,,,Known,1750,,,,ZTDVW,John Soul,Husband,Known,1737,7,4,,,,,,,,,,,,,,,"Eastington, Glos",,,,,,,,,,,,"- Baptised 19 April 1715, Eastington, Glos.
+- Died about 1750.",
 PT4IR,Laura Eliza Soul,Laura Eliza,,,,Soul,Soul,Female,Y,HTB9S,Charlotte Louisa Soul,U2X51,Washington Handley Soul,,,,,,,Known,1879,3,17,,Known,1923,12,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 GMT9D,Leah Emily Soul,Leah Emily,,,,Soul,Soul,Female,Y,GKSKL,Florence Ann Soul,MZUBD,Alan William Hone Soul,,,,,,,Known,1925,,,,Known,1996,,,,G4MED,Denis Joy Joseph Roobottom,Husband,Known,1949,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Q1BBQ,Leslie Thomas Vennell Soul,Leslie Thomas Vennell,,,,Soul,Soul,Male,Y,GLPBI,Edith Ann Soul,RZTEB,Thomas Holt Soul,,,,,,,Known,1092,5,6,,Known,1940,9,19,,,,,,,,,,,,,,,,,,,,,,,"Killed by landmine in Bromley, Kent",,,,,,,,,,,,,
 VJM71,Louisa Margaret McNab Soul,Louisa Margaret McNab,,,,Soul,Soul,Female,Y,MTL4L,Emma (Emmie) Soul,RJS85,Kenneth McNab Soul,,,,,,,Known,1916,1,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-LH3IK,Lydia Jane Soul,Lydia Jane,,,,Soul,Ayres,Female,Y,,,,,,,,,,,Known,1823,10,4,,Known,1878,7,,,I3OGX,Thomas Daniel Soul,Husband,Known,1846,4,7,,,,,,,,,,,,,,Bethnal Green,Bethnal Green,,,,,,,,Silk Weaver,,,,"- parents James Ayres and Mary Ayres.- Lived 3 Green Street with parents prior to marriage, father James Ayres. James and Lydia signed X on marriage register.- 1861 census: 1 Green St.- 1871 census: 277 Green St.",
-VKOVH,Lydia Jane Soul,Lydia Jane,,,,Soul,Soul,Female,Y,LH3IK,Lydia Jane Soul,I3OGX,Thomas Daniel Soul,,,,,,,Known,1847,1,18,,Known,1915,1,,,,,,,,,,,,,,,,,,,,,,,"2 George Gardens, Bethnal Green",,,,,,,,,Domestic servant; housekeeper,,,,"- 1861 census: 1 Green St age 14.- 1871 census: 279 Green St, 24, domestic servant.- 1901 census: 13 Parkhouse St, Camberwell, 54, housekeeper.- 1 Aug 1908 admitted French Protestant Hospital, ""formerly a silk weaveress now supported by relatives"". 8 Jul 1912 Hackney Infirmary, then taken home by her sister Mrs Booty (Huguenot Soc vol 53}.",
+LH3IK,Lydia Jane Soul,Lydia Jane,,,,Soul,Ayres,Female,Y,,,,,,,,,,,Known,1823,10,4,,Known,1878,7,,,I3OGX,Thomas Daniel Soul,Husband,Known,1846,4,7,,,,,,,,,,,,,,Bethnal Green,Bethnal Green,,,,,,,,Silk Weaver,,,,"- parents James Ayres and Mary Ayres.
+- Lived 3 Green Street with parents prior to marriage, father James Ayres. James and Lydia signed X on marriage register.
+- 1861 census: 1 Green St.
+- 1871 census: 277 Green St.",
+VKOVH,Lydia Jane Soul,Lydia Jane,,,,Soul,Soul,Female,Y,LH3IK,Lydia Jane Soul,I3OGX,Thomas Daniel Soul,,,,,,,Known,1847,1,18,,Known,1915,1,,,,,,,,,,,,,,,,,,,,,,,"2 George Gardens, Bethnal Green",,,,,,,,,Domestic servant; housekeeper,,,,"- 1861 census: 1 Green St age 14.
+- 1871 census: 279 Green St, 24, domestic servant.
+- 1901 census: 13 Parkhouse St, Camberwell, 54, housekeeper.
+- 1 Aug 1908 admitted French Protestant Hospital, ""formerly a silk weaveress now supported by relatives"". 8 Jul 1912 Hackney Infirmary, then taken home by her sister Mrs Booty (Huguenot Soc vol 53}.",
 IT4CC,Margaret Janet Soul,Margaret Janet,,,,Soul,Soul,Female,Y,GWKL1,Rebecca Mary Soul,IXMWM,Eli Soul,,,,,,,Known,1844,5,18,,Known,1921,5,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Book folder, asst milliner & draper",,,,,
 XUKKG,Margaret McNab Soul,Margaret McNab,,,,Soul,Soul,Female,Y,HOJTC,Margaret Sarah Soul,KC0L9,Thomas McNab Soul,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 HOJTC,Margaret Sarah Soul,Margaret Sarah,,,,Soul,Merry,Female,Y,,,,,,,,,,,,,,,,,,,,,KC0L9,Thomas McNab Soul,Husband,Known,1868,6,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -311,7 +336,8 @@ HGMSC,Margarita Ellen Hone Soul,Margarita Ellen Hone,,,,Soul,Soul,Female,Y,UZ34L
 UHRUJ,Marie Soul,Marie,,,,Soul,Johnson,Female,Y,,,,,,,,,,,Known,1891,12,11,,Known,1984,9,11,,DG8PK,Harold Moritz Joseph Soul,Husband,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 QHM60,Mark Anthony Soul,Mark Anthony,,,,Soul,Soul,Male,Y,GWKL1,Rebecca Mary Soul,IXMWM,Eli Soul,,,,,,,Known,1832,4,21,,Known,1833,9,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 P0JVO,Mary Soul,Mary,,,,Soul,Davis,Female,Y,,,,,,,,,,,,,,,,,,,,,PAISY,Daniel Soul,Husband,Known,1787,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Z7R92,Mary Soul,Mary,,,,Soul,Palmer,Female,Y,,,,,,,,,,,Known,1740,,,,Known,1774,,,,N87RK,John Soul,Husband,Known,1762,7,8,,,,,,,,,,,,,,,,,,,,,,,,,,,"- Baptised about 1740.- died about 1774.",
+Z7R92,Mary Soul,Mary,,,,Soul,Palmer,Female,Y,,,,,,,,,,,Known,1740,,,,Known,1774,,,,N87RK,John Soul,Husband,Known,1762,7,8,,,,,,,,,,,,,,,,,,,,,,,,,,,"- Baptised about 1740.
+- died about 1774.",
 T2MOI,Mary Ann Soul,Mary Ann,,,,Soul,Handley,Female,Y,,,,,,,,,,,Known,1821,3,17,,Known,1897,11,22,,ZBLEN,Caleb Soul,Husband,Known,1844,8,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 IKHTY,Mary Ann Soul,Mary Ann,,,,Soul,Soul,Female,Y,H59BV,Elizabeth Soul,Z0KK7,Eli Soul,,,,,,,Known,1801,12,29,,,,,,,,,,,,,,,,,,,,,,,,,,,"St Leonard's, Shoreditch",,,,,,,,,,,,,,
 VC24D,Mary Ann Soul,Mary Ann,,,,Soul,Gillingham,Female,Y,,,,,,,,,,,,,,,,Known,1863,6,3,,UN0PA,Matthew Soul,Husband,Known,1840,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -336,13 +362,17 @@ GQK6A,Rosina Ethel Soul,Rosina Ethel,,,,Soul,Soul,Female,Y,HPK0M,Elizabeth Mary 
 OXANN,Ruth Mabel Ellen Soul,Ruth Mabel Ellen,,,,Soul,Fairbrother,Female,Y,,,,,,,,,,,Known,1914,11,12,,Known,1987,8,24,,HSIKK,Hugh Noel Lawrence Soul,Husband,Known,1936,7,,,,,,,,,,,,,,,"Rowaland's castle, Hampshire",Liss,,,,,,,,,,,,,
 HL9CL,Samuel Soul,Samuel,,,,Soul,Soul,Male,Y,H59BV,Elizabeth Soul,Z0KK7,Eli Soul,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,- Dates not known. Mentioned in letter 11 Feb 1798 from Emma Soul to Eli and Elizabeth,
 EWC7Q,Sarah Soul,Sarah,,,,Soul,Howard,Female,Y,,,,,,,,,,,,,,,,,,,,,V8HDZ,Thomas Joseph Soul,Husband,Known,1814,7,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-GNJNZ,Sarah Mary Soul,Sarah Mary,,,,Soul,Soul,Female,Y,EWC7Q,Sarah Soul,V8HDZ,Thomas Joseph Soul,,,,,,,Known,1815,5,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"- Baptised 11 June 1815 St Matthew's, Bethnal Green.- Died in infancy ?",
+GNJNZ,Sarah Mary Soul,Sarah Mary,,,,Soul,Soul,Female,Y,EWC7Q,Sarah Soul,V8HDZ,Thomas Joseph Soul,,,,,,,Known,1815,5,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"- Baptised 11 June 1815 St Matthew's, Bethnal Green.
+- Died in infancy ?",
 RCLS5,Sarah Mary Soul,Sarah Mary,,,,Soul,Soul,Female,Y,EWC7Q,Sarah Soul,V8HDZ,Thomas Joseph Soul,,,,,,,Known,1821,4,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 T8J0S,Stanley Thomas Soul,Stanley Thomas,,,,Soul,Soul,Male,Y,YJR88,Rosa Soul,XUMQI,Henry Thomas Soul,,,,,,,Known,1885,,,,,,,,,ZMHVT,Evelyn M Soul,Wife,Known,1912,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Z4AGC,Stuart Soul,Stuart,,,,Soul,Soul,Male,Y,PTAUC,Mary Anne Soul,GIVZG,Frank Edward Meriton Soul,,,,,,,Known,1906,7,15,,,,,,,X214M,Edith R Soul,Wife,Known,1932,5,28,,,,,,,,,,,,,,,Melbourne,,,,,,,,,,,,"- lived Wood Green in 1911- Emigrated to Australia 1952 with wife and children (from letter to Geoffrey Bruce Soul 2 Oct 1953)",
+Z4AGC,Stuart Soul,Stuart,,,,Soul,Soul,Male,Y,PTAUC,Mary Anne Soul,GIVZG,Frank Edward Meriton Soul,,,,,,,Known,1906,7,15,,,,,,,X214M,Edith R Soul,Wife,Known,1932,5,28,,,,,,,,,,,,,,,Melbourne,,,,,,,,,,,,"- lived Wood Green in 1911
+- Emigrated to Australia 1952 with wife and children (from letter to Geoffrey Bruce Soul 2 Oct 1953)",
 INFZ5,Susan McNab Soul,Susan McNab,,,,Soul,Soul,Female,Y,MTL4L,Emma (Emmie) Soul,RJS85,Kenneth McNab Soul,,,,,,,Known,1913,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 P04CD,Sydney Caleb Soul,Sydney Caleb,,,,Soul,Soul,Male,Y,HOJTC,Margaret Sarah Soul,KC0L9,Thomas McNab Soul,,,,,,,Known,1885,,,,Known,1960,,,,CJU63,Alice Soul,Wife,,,,,,,,,,,,,,,,,,Shoreditch,Surrey,,,,,,,,,,,,,
-I3OGX,Thomas Daniel Soul,Thomas Daniel,,,,Soul,Soul,Male,Y,EWC7Q,Sarah Soul,V8HDZ,Thomas Joseph Soul,,,,,,,Known,1816,7,27,,Known,1869,,,,LH3IK,Lydia Jane Soul,Wife,Known,1846,4,7,,,,,,,,,,,,,,,,,,,,,,,Silk weaver,,,,"- Baptised 10 Aug 1816, St Matthew's.- Lived 2 George Gardens prior to marriage.- 1861 census: 1 Green St, Bethnal Green.",
+I3OGX,Thomas Daniel Soul,Thomas Daniel,,,,Soul,Soul,Male,Y,EWC7Q,Sarah Soul,V8HDZ,Thomas Joseph Soul,,,,,,,Known,1816,7,27,,Known,1869,,,,LH3IK,Lydia Jane Soul,Wife,Known,1846,4,7,,,,,,,,,,,,,,,,,,,,,,,Silk weaver,,,,"- Baptised 10 Aug 1816, St Matthew's.
+- Lived 2 George Gardens prior to marriage.
+- 1861 census: 1 Green St, Bethnal Green.",
 RZTEB,Thomas Holt Soul,Thomas Holt,,,,Soul,Soul,Male,Y,PI7SD,Ann Bruce Soul,GO8FB,George Simmonds Soul,,,,,,,Known,1971,4,20,,Known,1946,6,15,,GLPBI,Edith Ann Soul,Wife,,,,,,,,,,,,,,,,,,Dublin,,,,,,,,,Accountant,,,,,
 V8HDZ,Thomas Joseph Soul,Thomas Joseph,,,,Soul,Soul,Male,Y,P0JVO,Mary Soul,PAISY,Daniel Soul,,,,,,,Known,1789,12,4,,Known,1828,,,,EWC7Q,Sarah Soul,Wife,Known,1814,7,11,,,,,,,,,,,,,,,,,,,,,,,,,,,"- baptised 20 Dec 1789 St Matthew's, Bethnal Green.",
 QRVW6,Thomas M Soul,Thomas M,,,,Soul,Soul,Male,Y,HOJTC,Margaret Sarah Soul,KC0L9,Thomas McNab Soul,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -369,7 +399,8 @@ FKD0I,James Edward Soule,James Edward,,,,Soule,Soule,Male,Y,Y5687,Elizabeth Soul
 D9FM3,Louisa Marian Soule,Louisa Marian,,,,Soule,Soule,Female,Y,Y5687,Elizabeth Soule,DMYJ5,James Edward Soule,,,,,,,Known,1882,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Factory worker,,,,,
 YQENL,Patricia Audrey Soule,Patricia Audrey,,,,Soule,Tippett,Female,Y,,,,,,,,,,,,,,,,Known,2007,,,,VDCCZ,Jack Soule,Husband,Known,1947,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 SX2LM,Pauline Soule,Pauline,,,,Soule,Judge,Female,Y,,,,,,,,,,,,,,,,Known,2006,,,,A5UZJ,Clifford Soule,Husband,,,,,,,,,,,,,,,,,,,London,,,,,,,,,,,,,
-BGHYH,Richard Souls,Richard,,,,Souls,Souls,Male,Y,HTQAY,Kezia Soul,ZTDVW,John Soul,,,,,,,Known,1750,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"- Born about 1750.- Baptised 17 June 1750, Eastington, Glos",
+BGHYH,Richard Souls,Richard,,,,Souls,Souls,Male,Y,HTQAY,Kezia Soul,ZTDVW,John Soul,,,,,,,Known,1750,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"- Born about 1750.
+- Baptised 17 June 1750, Eastington, Glos",
 F3IM8,Andrew Syratt,Andrew,,,,Syratt,,Male,,,,,,,,,,,,,,,,,,,,,,O98BD,Helen Mary Syratt,Partner,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 H47MA,April Syratt,April,,,,Syratt,Syratt,Female,,O98BD,Helen Mary Syratt,F3IM8,Andrew Syratt,,,,,,,Known,1991,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 O98BD,Helen Mary Syratt,Helen Mary,,,,Syratt,Miller,Female,,LX2N8,Hazel Mary Selby Miller,LXILJ,Robert Miller,,,,,,,Known,1963,,,,,,,,,F3IM8,Andrew Syratt,Partner,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -377,7 +408,8 @@ IA4A2,Kayley Syratt,Kayley,,,,Syratt,Syratt,Female,,O98BD,Helen Mary Syratt,F3IM
 A631X,Ann Temple,Ann,,,,Temple,Blackwell,Female,Y,,,,,,,,,,,,,,,,,,,,,FS6NR,Richard Temple,Husband,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 S7CJK,Kezia Temple,Kezia,,,,Temple,Souls,Female,Y,HTQAY,Kezia Soul,ZTDVW,John Soul,,,,,,,Known,1742,1,3,,Known,1823,12,14,,LGLJO,Richard Temple,Husband,Known,1768,6,23,,,,,,,,,,,,,,,Rodborough,,,,,,,,,,,,- baptised 3 Jan 1742,
 FS6NR,Richard Temple,Richard,,,,Temple,Temple,Male,Y,S7CJK,Kezia Temple,LGLJO,Richard Temple,,,,,,,Known,1769,,,,,,,,,A631X,Ann Temple,Wife,,,,,,,,,,,,,,,,,,"Rodborough, Glos",,,,,,,,,,,,,,
-LGLJO,Richard Temple,Richard,,,,Temple,Temple,Male,Y,,,,,,,,,,,Known,1743,,,,,,,,,S7CJK,Kezia Temple,Wife,Known,1768,6,23,,,,,,,,,,,,,,Rodborough,,,,,,,,,,,,,"- Born about 1743.- Baptised about 1743.",
+LGLJO,Richard Temple,Richard,,,,Temple,Temple,Male,Y,,,,,,,,,,,Known,1743,,,,,,,,,S7CJK,Kezia Temple,Wife,Known,1768,6,23,,,,,,,,,,,,,,Rodborough,,,,,,,,,,,,,"- Born about 1743.
+- Baptised about 1743.",
 PR5CK,Alice Teo,Alice,,,,Teo,Teo,Female,,YXLG1,Zoé Rachel Teo,FUN8R,Mark Teo Teong Wey,,,,,,,Known,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 FLNMH,Charlie Teo,Charlie,,,,Teo,Teo,Male,,YXLG1,Zoé Rachel Teo,FUN8R,Mark Teo Teong Wey,,,,,,,Known,2015,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 NYQBB,Samuel Teo,Samuel,,,,Teo,Teo,Male,,YXLG1,Zoé Rachel Teo,FUN8R,Mark Teo Teong Wey,,,,,,,Known,2013,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
